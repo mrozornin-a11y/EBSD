@@ -1,0 +1,7 @@
+# Python 3.11+
+PySide6>=6.6
+# headless-сборка OpenCV не тянет собственный Qt и не конфликтует с PySide6
+opencv-python-headless>=4.8
+numpy>=1.26
+Pillow>=10.0
+scikit-image>=0.22
